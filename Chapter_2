@@ -22,3 +22,7 @@ object MyModule { // an object is like a class that only has a singleton named i
     loop(0)
   }
 }
+
+
+https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf
+https://arxiv.org/pdf/1404.7456.pdf
